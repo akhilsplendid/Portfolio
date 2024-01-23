@@ -17,7 +17,7 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
-    image: '/work/3.png',
+    image: '',
     category: 'react js',
     name: 'Exercise Tracker',
     description:
@@ -26,77 +26,77 @@ const projectData = [
     github: '/',
   },
   {
-    image: '/work/4.png',
-    category: 'react js',
-    name: 'Solstice Website',
+    image: '',
+    category: 'ML',
+    name: 'Optimaization of communication in Supply chain using NLP',
+    description:
+      'Master thesis Topic',
+    link: '/',
+    github: '/',
+  },
+  {
+    image: '',
+    category: 'Data Science',
+    name: 'Covid-19 data analysis',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/2.png',
-    category: 'next js',
-    name: 'Lumina Website',
+    image: '',
+    category: 'ML',
+    name: 'Smoker status prediction using Bio Signals',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/1.png',
-    category: 'next js',
-    name: 'Evolve Website',
+    image: '',
+    category: 'Data SCience',
+    name: 'Anomolies detection in Supply chain using Unsupervisied learning',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/3.png',
-    category: 'next js',
-    name: 'Ignite Website',
+    image: '',
+    category: 'Web & App',
+    name: 'Flutter Chat application',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
-  {
-    image: '/work/4.png',
-    category: 'next js',
-    name: 'Envision Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/1.png',
-    category: 'fullstack',
-    name: 'Serenity Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/3.png',
-    category: 'fullstack',
-    name: 'Nova Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/2.png',
-    category: 'fullstack',
-    name: 'Zenith Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
+  // {
+  //   image: '',
+  //   category: '',
+  //   name: 'Serenity Website',
+  //   description:
+  //     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+  //   link: '/',
+  //   github: '/',
+  // },
+  // {
+  //   image: '',
+  //   category: 'fullstack',
+  //   name: 'Nova Website',
+  //   description:
+  //     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+  //   link: '/',
+  //   github: '/',
+  // },
+  // {
+  //   image: '',
+  //   category: 'fullstack',
+  //   name: 'Zenith Website',
+  //   description:
+  //     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+  //   link: '/',
+  //   github: '/',
+  // },
 ];
 
 const Work = () => {

@@ -22,15 +22,15 @@ import { Pagination } from 'swiper/modules';
 const reviewsData = [
   {
     avatar: '/reviews/avatar-1.png',
-    name: 'Richard Thompson',
-    job: 'Chef',
+    name: 'Mark Adrien',
+    job: 'Volvo manager',
     review:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos quo voluptas tempora delectus dicta.',
   },
   {
     avatar: '/reviews/avatar-2.png',
     name: 'Evelyn Anderson',
-    job: 'Interior Designer',
+    job: 'UI Designer',
     review:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos quo voluptas tempora delectus dicta.',
   },
@@ -44,7 +44,7 @@ const reviewsData = [
   {
     avatar: '/reviews/avatar-4.png',
     name: 'Emily Smith',
-    job: 'Therapist',
+    job: 'Professor',
     review:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quos quo voluptas tempora delectus dicta.',
   },

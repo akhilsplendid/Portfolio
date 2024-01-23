@@ -5,8 +5,8 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
-    image: '/work/3.png',
-    category: 'react js',
+    image: '',
+    category: 'Web & App',
     name: 'Nexa Website',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
@@ -14,8 +14,8 @@ const projectData = [
     github: '/',
   },
   {
-    image: '/work/4.png',
-    category: 'react js',
+    image: '',
+    category: 'Web & App',
     name: 'Solstice Website',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
@@ -23,63 +23,63 @@ const projectData = [
     github: '/',
   },
   {
-    image: '/work/2.png',
-    category: 'next js',
-    name: 'Lumina Website',
+    image: '',
+    category: 'Data Science',
+    name: 'Weather Data Analysis',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/1.png',
-    category: 'next js',
-    name: 'Evolve Website',
+    image: '',
+    category: 'Data Science',
+    name: 'Covid 19 Data Analysis',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/3.png',
-    category: 'next js',
-    name: 'Ignite Website',
+    image: '',
+    category: 'Data Science',
+    name: 'Supply chain optimization using unsupervised Learning',
+    description:
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+    link: '/',
+    github: '/',
+  },
+  // {
+  //   image: '',
+  //   category: 'Data Science',
+  //   name: 'Envision Website',
+  //   description:
+  //     'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+  //   link: '/',
+  //   github: '/',
+  // },
+  {
+    image: '',
+    category: 'ML',
+    name: 'Smoker status Prediciton',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/4.png',
-    category: 'next js',
-    name: 'Envision Website',
+    image: '',
+    category: 'ML',
+    name: 'Drowsiness Detection',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
     github: '/',
   },
   {
-    image: '/work/1.png',
-    category: 'fullstack',
-    name: 'Serenity Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/3.png',
-    category: 'fullstack',
-    name: 'Nova Website',
-    description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
-    link: '/',
-    github: '/',
-  },
-  {
-    image: '/work/2.png',
-    category: 'fullstack',
-    name: 'Zenith Website',
+    image: '',
+    category: 'ML',
+    name: 'Supply chain communication optimization using NLP',
     description:
       'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
     link: '/',
