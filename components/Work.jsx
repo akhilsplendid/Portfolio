@@ -17,56 +17,56 @@ import ProjectCard from '@/components/ProjectCard';
 
 const projectData = [
   {
-    image: '',
-    category: 'react js',
+    image: 'https://via.placeholder.com/150',
+    category: 'React JS',
     name: 'Exercise Tracker',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+      'Exercise Tracker is a web application built using React JS that allows users to track their workouts and monitor their progress over time. Users can log their exercises, including details such as exercise type, duration, and intensity. The application provides visualizations and statistics to help users analyze their fitness data and stay motivated on their fitness journey.',
     link: '/',
     github: '/',
   },
   {
-    image: '',
+    image: 'https://via.placeholder.com/150',
     category: 'ML',
-    name: 'Optimaization of communication in Supply chain using NLP',
+    name: 'Optimization of Communication in Supply Chain using NLP',
     description:
-      'Master thesis Topic',
+      'This project focuses on optimizing communication within the supply chain using Natural Language Processing (NLP) techniques. By analyzing textual data such as emails, messages, and documents exchanged between various stakeholders in the supply chain, the goal is to improve communication efficiency, identify bottlenecks, and streamline processes.',
     link: '/',
     github: '/',
   },
   {
-    image: '',
+    image: 'https://via.placeholder.com/150',
     category: 'Data Science',
-    name: 'Covid-19 data analysis',
+    name: 'Covid-19 Data Analysis',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+      'Covid-19 Data Analysis project aims to analyze and visualize the spread and impact of the COVID-19 pandemic using data science techniques. It involves collecting, cleaning, and analyzing large datasets related to COVID-19 cases, deaths, testing, and vaccination rates. The insights gained from the analysis can help policymakers, healthcare professionals, and the general public make informed decisions.',
     link: '/',
     github: '/',
   },
   {
-    image: '',
+    image: 'https://via.placeholder.com/150',
     category: 'ML',
-    name: 'Smoker status prediction using Bio Signals',
+    name: 'Smoker Status Prediction using Bio Signals',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+      'This project utilizes machine learning algorithms to predict the smoker status of individuals based on bio signals such as heart rate variability (HRV), respiratory rate, and skin conductance. By analyzing these physiological signals, the model can classify individuals as smokers or non-smokers with high accuracy, which can be valuable for healthcare interventions and smoking cessation programs.',
     link: '/',
     github: '/',
   },
   {
-    image: '',
-    category: 'Data SCience',
-    name: 'Anomolies detection in Supply chain using Unsupervisied learning',
+    image: 'https://via.placeholder.com/150',
+    category: 'Data Science',
+    name: 'Anomalies Detection in Supply Chain using Unsupervised Learning',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+      'Anomalies Detection in Supply Chain project focuses on detecting abnormal patterns and outliers in supply chain data using unsupervised learning techniques such as clustering and anomaly detection algorithms. By identifying irregularities in processes, shipments, or inventory levels, the project aims to enhance supply chain visibility, reduce risks, and improve overall operational efficiency.',
     link: '/',
     github: '/',
   },
   {
-    image: '',
+    image: 'https://via.placeholder.com/150',
     category: 'Web & App',
-    name: 'Flutter Chat application',
+    name: 'Flutter Chat Application',
     description:
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, quis.',
+      'Flutter Chat Application is a cross-platform mobile application developed using the Flutter framework for building native interfaces on iOS and Android. It provides real-time messaging functionality, allowing users to exchange text messages, images, and multimedia content. The application also supports features such as user authentication, push notifications, and message encryption for enhanced security.',
     link: '/',
     github: '/',
   },
