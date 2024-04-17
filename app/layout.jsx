@@ -4,6 +4,7 @@ import './globals.css';
 // compoenents
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
+import { Analytics } from "@vercel/analytics/react"
 // theme provider
 import { ThemeProvider } from '@/components/ThemeProvider';
 
@@ -21,6 +22,7 @@ export default function RootLayout({ children }) {
         <ThemeProvider attribute='class' defaultTheme='light'>
           <Header />
           {children}
+          <Analytics />
           <Footer />
         </ThemeProvider>
       </body>
