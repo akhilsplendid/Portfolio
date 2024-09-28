@@ -26,8 +26,7 @@ const Hero = () => {
             </div>
             <h1 className='h1 mb-4'>Hello, my name is Akhilesh Yadlapalli</h1>
             <p className='subtitle max-w-[490px] mx-auto xl:mx-0'>
-              Brief description with insights into myself, my vocational
-              journey, and what I engage in professionally.
+            I am a driven engineering graduate with a passion for machine learning and system analysis. I have honed my skills in Python programming, automated testing frameworks, and data visualization techniques through various projects and internships. I am eager to leverage my analytical mindset and technical acumen to contribute to cutting-edge ML solutions in a dynamic, forward-thinking environment.
             </p>
             {/* buttons */}
             <div className='flex flex-col gap-y-3 md:flex-row gap-x-3 mx-auto xl:mx-0 mb-12'>
@@ -68,14 +67,14 @@ const Hero = () => {
             <Badge
               containerStyles='absolute top-[55%] -right-8'
               icon={<RiTeamFill />}
-              endCountNum={20}
+              endCountNum={200}
               endCountText='+'
-              badgeText='Certicications'
+              badgeText=''
             />
             <div className='bg-hero_shape2_light dark:bg-hero_shape2_dark w-[500px] h-[500px] bg-no-repeat absolute -top-1 -right-2'></div>
             <DevImg
               containerStyles='bg-hero_shape w-[510px] h-[462px] bg-no-repeat relative bg-bottom'
-              imgSrc='/hero/developer.png'
+              imgSrc='/hero/test.webp'
             />
           </div>
         </div>
